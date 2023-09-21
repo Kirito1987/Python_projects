@@ -1,3 +1,4 @@
+#may need to download tkinter, requests and BeautifulSoup either through machine or local environment(venv or cobra)
 import tkinter as tk
 from tkinter import Button, Text
 import requests
